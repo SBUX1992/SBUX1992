@@ -1,6 +1,6 @@
 <!--  -->
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj={SBUX1992})](https://solved.ac/{sinsunkangg})
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj={sinsunkangg})](https://solved.ac/{sinsunkangg})
 
 
 <h3 align="center">📚 Tech Stack 📚</h3>
