@@ -27,3 +27,4 @@
 # Contacts
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sinsunkangg@gmail.com)](mailto:sinsunkangg@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:sinsunkangg@naver.com)](mailto:sinsunkangg@naver.com)
+<img src="https://img.shields.io/badge/instagram-E4405F?style=flat&logo=instagram&logoColor=white"/>
