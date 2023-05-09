@@ -1,10 +1,8 @@
 <!--  -->
 # Kang JungHyun
 
-
-
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sinsunkangg)](https://solved.ac/sinsunkangg/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sinsunkangg)](https://solved.ac/sinsunkangg/)<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SBUX1992&langs_count=8)](https://github.com/SBUX1992/github-readme-stats)
 
 # 💪Skills
 ### Platforms & Languages
@@ -26,6 +24,6 @@
 
 
  
-# :mailbox_with_mail: Contacts
+# Contacts
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sinsunkangg@gmail.com)](mailto:sinsunkangg@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:sinsunkangg@naver.com)](mailto:sinsunkangg@naver.com)
