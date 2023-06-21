@@ -4,6 +4,10 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sinsunkang)](https://solved.ac/sinsunkang/)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SBUX1992&layout=compact)](https://github.com/SBUX1992/github-readme-stats)
 
+# Project
+http://3.39.237.61:8181/Beauty/
+http://13.124.202.113:8383/Kmarket2/
+
 # 💪Skills
 ### Platforms & Languages
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
