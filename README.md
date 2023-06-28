@@ -8,7 +8,7 @@
 #### 의류쇼핑몰
 http://3.39.237.61:8181/Beauty/
 #### 오픈마켓
-http://13.124.202.113:8383/Kmarket2/
+http://3.35.16.120:8383/Kmarket2/
 
 # 💪Skills
 #### Platforms & Languages
