@@ -1,8 +1,6 @@
-<!--  -->
 # Kang JungHyun
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sinsunkang)](https://solved.ac/sinsunkang/)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SBUX1992&layout=compact)](https://github.com/SBUX1992/github-readme-stats)
+<!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sinsunkang)](https://solved.ac/sinsunkang/) -->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SBUX1992&layout=compact)](https://github.com/SBUX1992/github-readme-stats) -->
 
 # Project
 #### 의류쇼핑몰
