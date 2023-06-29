@@ -14,7 +14,7 @@ http://3.39.237.61:8181/Beauty/
  - java17
  - SpringBoot 3.03
  - HTML5 / CSS3 / JavaScript(ES6)
- 
+
 #### 오픈마켓
 http://3.35.16.120:8383/Kmarket2/
 프로젝트명 : Kmarket2
