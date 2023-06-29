@@ -5,8 +5,11 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SBUX1992&layout=compact)](https://github.com/SBUX1992/github-readme-stats)
 
 # Project
-#### 의류쇼핑몰 (2023.03.01 ~ 2023.03.31)
+#### 의류쇼핑몰
 http://3.39.237.61:8181/Beauty/
+ - 2023.03.01 ~ 03.31
+ - SpringBoot
+ - 
 #### 오픈마켓
 http://3.35.16.120:8383/Kmarket2/
 
