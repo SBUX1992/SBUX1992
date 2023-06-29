@@ -10,10 +10,7 @@ http://3.39.237.61:8181/Beauty/
 
 개발기간 : 2023.03.01 ~ 2023.03.31
 
-개발인원 : 5명
-
 개발환경
- - java17
  - SpringBoot 3.03
  - HTML5 / CSS3 / JavaScript(ES6)
 
@@ -24,10 +21,7 @@ http://3.35.16.120:8383/Kmarket2/
 
 개발기간 : 2022.12.05 ~ 2022.12.23
 
-개발인원 : 5명
-
 개발환경
- - Java17
  - SpringBoot 3.0
  - HTML5 / CSS3 / JavaScript(ES6)
 
