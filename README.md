@@ -2,6 +2,9 @@
 <!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sinsunkang)](https://solved.ac/sinsunkang/) -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SBUX1992&layout=compact)](https://github.com/SBUX1992/github-readme-stats) -->
 
+# Notion
+https://www.notion.so/sbux1992/0a4d2c1f24184121ac6e05ce407ab896
+
 # Project
 #### 의류쇼핑몰
 http://3.39.240.151:8181/Beauty/
